@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @letyrodrigues1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Boas Vindas ao meu perfil 🫀
 
-<!---
-letyrodrigues1/letyrodrigues1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ### Meu nome é Letícia Rodrigues
+
+- Tenho 15 anos 
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem javascript
+- Utilizo esse espaço para minha organização e compartilhamento de meus projetos desenvolvidos
+- Estudo no primeiro ano do ensino médio
+
+- ### você pode entrar em contato comigo 📫
+
+- leticia.rodrigues.fernandes@escola.pr.gov.br
+
+- @leet.yrodrigues
+
+
+https://tenor.com/pt-BR/view/kimetsu-no-yaiba-nezuko-demon-slayer-gif-24433937
