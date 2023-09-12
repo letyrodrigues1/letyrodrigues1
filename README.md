@@ -3,7 +3,7 @@
 - ### Meu nome é Letícia Rodrigues
 
 - Tenho 15 anos 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem javascript
 - Utilizo esse espaço para minha organização e compartilhamento de meus projetos desenvolvidos
 - Estudo no primeiro ano do ensino médio
@@ -14,5 +14,4 @@
 
 - @leet.yrodrigues
 
-
-https://tenor.com/pt-BR/view/kimetsu-no-yaiba-nezuko-demon-slayer-gif-24433937
+![](https://tenor.com/pt-BR/view/kimetsu-no-yaiba-nezuko-demon-slayer-gif-24433937)
