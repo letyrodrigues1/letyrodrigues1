@@ -13,5 +13,5 @@
 - leticia.rodrigues.fernandes@escola.pr.gov.br
 
 - @leet.yrodrigues
-
-![](https://tenor.com/pt-BR/view/kimetsu-no-yaiba-nezuko-demon-slayer-gif-24433937)
+![](https://media.tenor.com/syL62uUkzwMAAAAd/nezuko-nezuko-kamado.gif)
+  
