@@ -1,5 +1,7 @@
 ### Boas Vindas ao meu perfil 🫀
 
+🇧🇷
+
 - ### Meu nome é Letícia Rodrigues
 
 - Tenho 15 anos 
@@ -14,7 +16,7 @@
 
 - @leet.yrodrigues
 - @yurii_barber💍🫀
-- 
+  
 
 
 
