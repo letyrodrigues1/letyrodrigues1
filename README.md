@@ -13,6 +13,8 @@
 - leticia.rodrigues.fernandes@escola.pr.gov.br
 
 - @leet.yrodrigues
+- @yurii_barber💍🫀
+- 
 
 
 
