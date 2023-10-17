@@ -11,9 +11,12 @@
 - Estudo no primeiro ano do ensino médio
 
 - ### você pode entrar em contato comigo 📫
+     ### email
 
 - leticia.rodrigues.fernandes@escola.pr.gov.br
 
+    ### instagram 
+  
 - @leet.yrodrigues
 - @yurii_barber💍🫀
   
