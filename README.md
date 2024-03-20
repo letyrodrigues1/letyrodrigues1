@@ -4,7 +4,7 @@
 
 - ### Meu nome é Letícia Rodrigues
 
-- Tenho 15 anos 
+- Tenho 16 anos 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem javascript
 - Utilizo esse espaço para minha organização e compartilhamento de meus projetos desenvolvidos
