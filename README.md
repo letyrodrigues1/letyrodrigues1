@@ -18,7 +18,7 @@
     ### instagram 
   
 - @leet.yrodrigues
-- @yurii_barber💍🫀
+
   
 
 ### NEZUKO💮
